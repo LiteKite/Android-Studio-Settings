@@ -6,6 +6,14 @@ This repo has Android Studio IDE Settings JAR File. Configuring IDE while workin
 
 <a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono Font</a>, Consolas
 
+## Some Plugins, if you like
+
+<a href="https://plugins.jetbrains.com/plugin/10081-edutools">JetBrains EduTools</a>
+
+<a href="https://plugins.jetbrains.com/plugin/6954-kotlin">JetBrains Kotlin Plugin</a>
+
+<a href="https://plugins.jetbrains.com/plugin/12667-firebase-services">Google Firebase Services</a>
+
 ## License
 
 ~~~
