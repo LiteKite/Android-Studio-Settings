@@ -14,6 +14,8 @@ This repo has Android Studio IDE Settings JAR File. Configuring IDE while workin
 
 <a href="https://plugins.jetbrains.com/plugin/12667-firebase-services">Google Firebase Services</a>
 
+<a href="https://www.codota.com">Codota (AI enabled code autocomplete plugin)</a>
+
 ## License
 
 ~~~
