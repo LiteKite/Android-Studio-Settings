@@ -16,6 +16,10 @@ This repo has Android Studio IDE Settings JAR File. Configuring IDE while workin
 
 <a href="https://www.codota.com">Codota (AI enabled code autocomplete plugin)</a>
 
+<a href="https://plugins.jetbrains.com/plugin/12507-package-search">Package Search Plugin by Jetbrains</a>
+
+<a href="https://package-search.jetbrains.com/">A rich web frontend package search by Jetbrains</a>
+
 ## License
 
 ~~~
