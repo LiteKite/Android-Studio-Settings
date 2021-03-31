@@ -24,7 +24,7 @@ This repo has Android Studio IDE Settings.zip File. Configuring IDE while workin
 
 ~~~
 
-Copyright 2020 Vignesh S.
+Copyright 2020 LiteKite Startup.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
